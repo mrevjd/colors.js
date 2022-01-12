@@ -1,14 +1,8 @@
 # colors.js
-[![Build Status](https://travis-ci.org/Marak/colors.js.svg?branch=master)](https://travis-ci.org/Marak/colors.js)
-[![version](https://img.shields.io/npm/v/colors.svg)](https://www.npmjs.org/package/colors)
-[![dependencies](https://david-dm.org/Marak/colors.js.svg)](https://david-dm.org/Marak/colors.js)
-[![devDependencies](https://david-dm.org/Marak/colors.js/dev-status.svg)](https://david-dm.org/Marak/colors.js#info=devDependencies)
-
-Please check out the [roadmap](ROADMAP.md) for upcoming features and releases.  Please open Issues to provide feedback, and check the `develop` branch for the latest bleeding-edge updates.
 
 ## get color and style in your node.js console
 
-![Demo](https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png)
+![Demo](https://raw.githubusercontent.com/mrevjd/colors.js/master/screenshots/colors.png)
 
 ## Installation
 
@@ -142,9 +136,9 @@ colors.disable();
 ## Console.log [string substitution](http://nodejs.org/docs/latest/api/console.html#console_console_log_data)
 
 ```js
-var name = 'Marak';
+var name = 'mrevjd';
 console.log(colors.green('Hello %s'), name);
-// outputs -> 'Hello Marak'
+// outputs -> 'Hello mrevjd'
 ```
 
 ## Custom themes
