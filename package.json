@@ -1,16 +1,20 @@
 {
     "name": "colors",
     "description": "get colors in your node.js console",
-    "version": "1.4.44-liberty-2",
+    "version": "1.5.0",
     "author": "Marak Squires",
     "contributors": [
         {
             "name": "DABH",
             "url": "https://github.com/DABH"
-        }
+        },
+        {
+            "name": "mrevjd",
+            "url": "https://github.com/mrevjd"
+        }   
     ],
-    "homepage": "https://github.com/Marak/colors.js",
-    "bugs": "https://github.com/Marak/colors.js/issues",
+    "homepage": "https://github.com/mrevjd/colors.js",
+    "bugs": "https://github.com/mrevjd/colors.js/issues",
     "keywords": [
         "ansi",
         "terminal",
@@ -18,7 +22,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/Marak/colors.js.git"
+        "url": "http://github.com/mrevjd/colors.js.git"
     },
     "license": "MIT",
     "scripts": {
